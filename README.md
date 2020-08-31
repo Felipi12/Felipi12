@@ -1,4 +1,4 @@
-![MyPhoto](/Felipi12/myphotosub.png)
+<img src="https://raw.githubusercontent.com/Felipi12/Felipi12/master/myphotosub.png">
 
 ## That's a me! Felipe! :star2:
 
@@ -16,3 +16,6 @@ Colégio Militar BH | 2012
 CEFET-MG | 2019
 The Walt Disney Company | 2019
 CommitJR | 2020
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
