@@ -1,8 +1,8 @@
 ![MyPhoto](/eu.png)
 
-# That's a me! Felipe!
+## That's a me! Felipe! :star2:
 
- :person_with_blond_hair: Welcome to my GitHub profile! :satisfied: 
+`Welcome to my GitHub profile!` :satisfied: 
 
 Be sure to take a look and feel free to cantct me whenever you feel needed to :-)
 
