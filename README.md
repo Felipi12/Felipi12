@@ -1,4 +1,12 @@
-<img src="https://raw.githubusercontent.com/Felipi12/Felipi12/master/myphotosub.png">
+# [![felipe morais header](https://raw.githubusercontent.com/Felipi12/Felipi12/master/myphotosub.png)](https://www.linkedin.com/in/felipe-mlmorais)
+
+
+<p align='center'>
+<a href="https://instagram.com/felipe_lemos12"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/felipe-mlmorais /"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
 
 ## That's a me! Felipe! :star2:
 
@@ -18,4 +26,3 @@ The Walt Disney Company | 2019
 CommitJR | 2020
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
