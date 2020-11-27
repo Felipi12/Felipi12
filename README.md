@@ -8,7 +8,7 @@
 
 
 
-## That's a me! Felipe! :star2:
+## Hey, what's up? It's me, Felipe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 `Welcome to my GitHub profile!` :satisfied: 
 
@@ -25,5 +25,5 @@ CEFET-MG | 2019
 The Walt Disney Company | 2019
 CommitJR | 2020
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00c55e" />
 
