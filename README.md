@@ -3,20 +3,20 @@
 
 <p align='center'>
 <a href="https://discordapp.com/users/615680306573475843/">
-  <img align="center" padding="10px" alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>   
+  <img alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href="https://t.me/Felipi12">
-  <img align="center" padding="10px" alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>   
+  <img alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href="https://www.linkedin.com/in/felipe-mlmorais/">
-  <img align="center" padding="10px" alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
+  <img alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/felipe_lemos12/">
-  <img align="center" padding="10px" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <img alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCljuJe9XEtQSUHenT38DIqA">
-  <img align="center" padding="10px" alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+  <img alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
