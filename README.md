@@ -2,10 +2,27 @@
 
 
 <p align='center'>
-<a href="https://instagram.com/felipe_lemos12"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/felipe-mlmorais/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+<a href="https://discordapp.com/users/615680306573475843/">
+  <img align="left" alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>  
+  
+<a href="https://t.me/Felipi12">
+  <img align="left" alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>  
+  
+<a href="https://www.linkedin.com/in/felipe-mlmorais/">
+  <img align="left" alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
+  
+<a href="https://www.instagram.com/felipe_lemos12/">
+  <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
+<a href="https://www.youtube.com/channel/UCljuJe9XEtQSUHenT38DIqA">
+  <img align="left" alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+</p>
 
 
 ## Hey, what's up? It's me, Felipe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -16,14 +33,15 @@ Be sure to take a look and feel free to cantct me whenever you feel needed to :-
 
 I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizonte-MG, Brazil!
 
-Here's my journey so far! :rocket: 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&layout=compact&title_color=23485f&text_color=ffffff&icon_color=ffffffa&bg_color=00c55e" />
 
-Institution name | Year of Ingress
------------- | -------------
-Colégio Militar BH | 2012
-CEFET-MG | 2019
-The Walt Disney Company | 2019
-CommitJR | 2020
+Here's my professional journey so far! :world: :rocket: 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&title_color=ffffff&text_color=23485f&icon_color=2bbc8a&bg_color=00c55e" />
-
+                    Institution name | Year of Ingress
+                    ------------ | -------------
+                    The Walt Disney Company | 2019
+                    CommitJR | 2020
+                    
+                    
+<h2>Last Tweet</h2>
+<p><a href="https://www.twitter.com/mokkapps"><img src="https://github.com/mokkapps/mokkapps/blob/master/tweet.png" width="600"></a></p>
