@@ -32,12 +32,10 @@ I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizont
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffffa&bg_color=00c55e" />
 </p>
 
-<p align='center'>
-Here's my professional journey so far! :earth: :rocket: 
+Here's my professional journey so far! :rocket: 
 
 Institution name | Month of Ingress
 ------------ | -------------
 The Walt Disney Company | 11/2019
 CommitJR | 06/2020 
 
-</p>
