@@ -3,19 +3,19 @@
 
 <p align='center'>
 <a href="https://discordapp.com/users/615680306573475843/">
-  <img align="center" margin="10px" alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="center" padding="10px" alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>   
 <a href="https://t.me/Felipi12">
-  <img align="center" margin="10px" alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" padding="10px" alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>   
 <a href="https://www.linkedin.com/in/felipe-mlmorais/">
-  <img align="center" margin="10px" alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" padding="10px" alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 <a href="https://www.instagram.com/felipe_lemos12/">
-  <img align="center" margin="10px" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" padding="10px" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCljuJe9XEtQSUHenT38DIqA">
-  <img align="center" margin="10px" alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" padding="10px" alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 </p>
 
@@ -24,13 +24,13 @@
 
 `Welcome to my GitHub profile!` :satisfied: 
 
-Be sure to take a look and feel free to cantct me whenever you feel needed to :-)
+Be sure to take a look and feel free to contact me whenever you feel needed to :-)
 
 I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizonte-MG, Brazil!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffffa&bg_color=00c55e" />
 
-Here's my professional journey so far! :world: :rocket: 
+Here's my professional journey so far! :earth: :rocket: 
 
 Institution name | Month of Ingress
 ------------ | -------------
