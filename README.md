@@ -5,15 +5,23 @@
 <a href="https://discordapp.com/users/615680306573475843/">
   <img align="center" alt="Felipe's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>   
+  
+  
 <a href="https://t.me/Felipi12">
   <img align="center" alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>   
+
+
 <a href="https://www.linkedin.com/in/felipe-mlmorais/">
   <img align="center" alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
+
+
 <a href="https://www.instagram.com/felipe_lemos12/">
   <img align="center" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+
 <a href="https://www.youtube.com/channel/UCljuJe9XEtQSUHenT38DIqA">
   <img align="center" alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -32,10 +40,7 @@ I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizont
 
 Here's my professional journey so far! :world: :rocket: 
 
-<p align='center'>
 Institution name | Year of Ingress
 ------------ | -------------
 The Walt Disney Company | 2019
-CommitJR | 2020
-</p>
-                    
+CommitJR | 2020                    
