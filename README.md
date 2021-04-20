@@ -24,7 +24,7 @@
 
 `Welcome to my GitHub profile!` :satisfied: 
 
-Be sure to take a look and feel free to contact me whenever you feel needed to :-)
+Be sure to take a look and feel free to contact me through my social networks whenever you feel needed to :-)
 
 I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizonte-MG, Brazil!
 
@@ -37,5 +37,5 @@ Here's my professional journey so far! :rocket:
 Institution name | Month of Ingress
 ------------ | -------------
 The Walt Disney Company | 11/2019
-CommitJR | 06/2020 
+<a href="https://www.commitjr.com">Commit Jr</a> | 06/2020 
 
