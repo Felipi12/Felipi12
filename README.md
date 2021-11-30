@@ -37,5 +37,6 @@ Here's my professional journey so far! :rocket:
 Institution name | Month of Ingress
 ------------ | -------------
 <a href="https://thewaltdisneycompany.com/"> The Walt Disney Company</a> | 11/2019 - 02/2020
-<a href="https://www.commitjr.com">Commit Jr</a> | 06/2020 - Now
+<a href="https://www.commitjr.com">Commit Jr</a> | 06/2020 - 11/2021
+<a href="https:///www.embraer.com.br"> Embraer</a> | 11/2021 - Now
 
