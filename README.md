@@ -38,5 +38,7 @@ Institution name | Month of Ingress
 ------------ | -------------
 <a href="https://thewaltdisneycompany.com/"> The Walt Disney Company</a> | 11/2019 - 02/2020
 <a href="https://www.commitjr.com">Commit Jr</a> | 06/2020 - 11/2021
-<a href="https:///www.embraer.com.br"> Embraer</a> | 11/2021 - Now
+<a href="https:///www.embraer.com.br"> Embraer</a> | 11/2021 - 02/2022
+<a href="https:///www.siemensenergy.com"> Siemens</a> | 05/2022 - 02/2023
+<a href="https:///www.gov.br"> Brazil's Fed. Gov </a> | 04/2023 - Now
 
