@@ -8,14 +8,11 @@
 <a href="https://t.me/Felipi12">
   <img alt="Felipe's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;   
-<a href="https://www.linkedin.com/in/felipe-mlmorais/">
+<a href="https://www.linkedin.com/in/felipe-lemosm/">
   <img alt="Felipe's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/felipe_lemos12/">
   <img alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCljuJe9XEtQSUHenT38DIqA">
-  <img alt="Felipe's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -24,15 +21,15 @@
 
 `Welcome to my GitHub profile!` :satisfied: 
 
-Be sure to take a look and feel free to contact me through my social networks whenever you feel needed to :-)
+Feel free to contact me through my social networks whenever you feel needed to :-)
 
-I'm currently studying COMPUTER ENGINEERING :octocat: at CEFET-MG, Belo Horizonte-MG, Brazil!
+I'm currently living in São Paulo :octocat:!
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipi12&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ffffffa&bg_color=00c55e" />
 </p>
 
-Here's my professional journey so far! :rocket: 
+Here's my journey so far! :rocket: 
 
 Institution name | Month of Ingress
 ------------ | -------------
@@ -42,5 +39,6 @@ Institution name | Month of Ingress
 <a href="https:///www.siemensenergy.com"> Siemens</a> | 05/2022 - 02/2023
 <a href="https:///www.gov.br"> Brazil's Fed. Gov </a> | 04/2023 - 09/2023
 <a href="https://www.stellantis.com/"> Stellantis </a> | 02/2024 - 08/2024
-<a href="https:///www.inter.co"> Inter&Co </a> | 04/2024 - Now
+<a href="https:///www.inter.co"> Inter&Co </a> | 04/2024 - 04/2026
+<a href="https:///www.tako.ai"> Tako </a> | 04/2026 - Now
 
